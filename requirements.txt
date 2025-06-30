@@ -4,3 +4,4 @@ nltk
 wordcloud
 matplotlib
 scikit-learn
+seaborn
